@@ -1,0 +1,6 @@
+{
+  "name": "FullyPDF",
+  "description": "A high-performance, AI-powered PDF toolkit for document merging, splitting, OCR, translation, and chat. Production-ready tools with premium visual design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
